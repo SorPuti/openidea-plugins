@@ -1,5 +1,4 @@
 repository = "https://github.com/SorPuti/openidea-collab"
-description = "Real-time collaboration for OpenIDEA: sync files between developers."
 
 [[versions]]
 version = "0.1.0"
