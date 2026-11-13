@@ -1,6 +1,11 @@
 repository = "https://github.com/SorPuti/openidea-collab"
 
 [[versions]]
+version = "0.4.4"
+package = "https://github.com/SorPuti/openidea-collab/releases/download/v0.4.4/sorputi.openidea-collab-0.4.4.oiplugin"
+sha256 = "cd11da35ee36223a029c04dff04b1b5555ce3849b8595d95aeaee268afd50fac"
+
+[[versions]]
 version = "0.4.3"
 package = "https://github.com/SorPuti/openidea-collab/releases/download/v0.4.3/sorputi.openidea-collab-0.4.3.oiplugin"
 sha256 = "ad0ca698ee9f712ce02a59198906295592f3fdbc5286ecf0a37524e011895d80"
